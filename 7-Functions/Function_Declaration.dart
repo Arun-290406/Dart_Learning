@@ -1,4 +1,4 @@
-import 'dart:io';
+
 void Aver_Salary(int a,int b)
 {
       var avg=(a+b)~/2;
